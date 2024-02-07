@@ -1,9 +1,9 @@
 import stylescomp1 from './perfil.module.scss'
 
-export default function Perfil() {
+export default function Blocks() {
     return <header className={stylescomp1.head}>
         <h1 className={stylescomp1.h1a}>
-            Hola
+            as
         </h1>
     </header>;
   }

@@ -1,10 +1,10 @@
 import styles from './page.module.scss'
-import Perfil from '@/components/perfil/perfil'
+import Blocks from '@/components/block/blocks'
 
 export default function Home() {
   return (
     <div className={styles.div2}>
-        <Perfil/>
+        <Blocks/>
     </div>
   )
 }

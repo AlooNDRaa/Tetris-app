@@ -1,8 +1,8 @@
-$back-perlil: rgb(0, 0, 0);
-$viewportBodsy: 100vh;
+$back-perlil: rgb(10, 5, 20);
+$viewportBodsy: 100vw;
+$paddings: 0 ;
 
 
 .div2{
-    background-color: $back-perlil;
-    height: $viewportBodsy;
+  height: 100vh;
 }
